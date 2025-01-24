@@ -90,6 +90,11 @@ font-size:8em;
 
 .Timeline {
     margin-left: 6%;
+     font-family: "Libre Baskervdille", serif;
+   font-weight: 900;
+   font-style: normal;
+    display:flex;
+    jsutify-content:center;
 }
 
 .Linecreate {
